@@ -6,12 +6,11 @@
 
 ## Estructura 
 Practica modulo III/
-├── data/
-│   ├── raw/
-│   │   └── descarga_completa.zip
-│   └── processed/
-│       └── tabla_base_censo2024.csv   # Se genera automáticamente
-├── notebooks/
-│   └── 01_inicio_censo2024_reestructurado.ipynb
-└── README.md                           
+data/
+  raw/
+    descarga_completa.zip
+  processed/
+    tabla_base_censo2024.csv   # Se genera automáticamente
+notebooks/
+  01_inicio_censo2024.ipynb                      
 
